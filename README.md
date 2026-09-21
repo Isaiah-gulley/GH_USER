@@ -1,2 +1,2 @@
-# Hi there, I'm Isaiah
-echo "Building, breaking, and securing networks & systems."
+#Cybersecurity trainee
+Building, Breaking, and Securing Networks & Systems
